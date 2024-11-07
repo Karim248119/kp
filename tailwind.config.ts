@@ -73,7 +73,7 @@ const config = {
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
-        jet: ["JetBrains Mono", "monospace"],
+        JetBrainsMono: ["JetBrains Mono", "monospace"],
         quicksand: ["Quicksand", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
       },
