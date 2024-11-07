@@ -74,7 +74,7 @@ export default function Projects() {
             </div>
           </div>
           <div className=" w-full md:aspect-[2.5/2] flex  flex-col gap-5 p-5 md:p-0 md:gap-0 md:justify-between">
-            <div className=" md:text-[7vw] text-[20vw] leading-none  text-outline font-JetBrainsMono text-transparent font-extrabold">
+            <div className=" md:text-[7vw] text-[20vw] leading-none  text-outline font-mono text-transparent font-extrabold">
               {project.num}
             </div>
             <h2 className="md:text-[2.7vw] text-[8vw] leading-none  font-bold text">
